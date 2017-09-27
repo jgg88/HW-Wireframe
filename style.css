@@ -1,11 +1,13 @@
 body {
 	background-color: #777;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	font-size: 18px
+	font-size: 18px;
 	width: 960px;
 	text-align: center;
 	color: #777;
-	display: inline-block;
+	margin: 0 auto;
+
+
 
 }
 
@@ -14,6 +16,9 @@ header {
 	padding: 20px;
 	margin: 10px;
 	
+	
+
+
 }
 
 nav {
@@ -51,7 +56,7 @@ section {
 
 aside {
 	float: right;
-	width: 393px;
+	width: 345px;
 	height: 250px;
 	padding: 20px;
 	margin: 10px;
